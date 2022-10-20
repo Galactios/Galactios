@@ -23,3 +23,4 @@ Apaixonado por tecnologia
 ## Saber mais:
 - Currículo (https://thiagocurriculo.firebaseapp.com/)
 
+![Snake animation](https://github.com/galactios/galactios/blob/output/github-contribution-grid-snake.svg)
